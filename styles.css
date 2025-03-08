@@ -1,0 +1,10 @@
+
+body{
+background-color: rgb(245, 236, 236);
+text-size-adjust: 35px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+text-decoration-color: rgba(231, 217, 200, 0.747);
+text-align: center;
+-webkit-text-fill-color: rgb(17, 5, 5);
+}
